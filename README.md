@@ -8,7 +8,9 @@ A web-based **Guess The Word** game with Admin and Player roles, built using **F
 
 ### 1️⃣ Install
 git clone https://github.com/Sanjanamuthukumar04/Word-Guessing-Game-
+
 cd Word-Guessing-Game-
+
 pip install -r requirements.txt
 
 
@@ -23,7 +25,9 @@ Visit http://127.0.0.1:5000/
 ## 🔑 First Login
 
 * Click **“Register here”**
+
 * The **first registered user** becomes **Admin**
+  
 * Admin dashboard: `/admin`
 
 ---
